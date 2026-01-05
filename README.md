@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./Group 9149.png" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7c3aed&height=200&section=header&text=Anatolii&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
