@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7c3aed&height=200&section=header&text=Anatolii&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**horzux/horzux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Visual Designer</b><br>
+  Creativity over noise
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✦ What I do
+- Visual design
+- Creative concepts
+- Clean & modern visuals
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnatoliiTerletskyi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <i>Design is how it feels.</i>
+</p>
